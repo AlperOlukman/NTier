@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.Core", "NTier.Core\NTier.Core.csproj", "{EAF38F6F-EA6B-4D78-B4D8-2F031B85C8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF38F6F-EA6B-4D78-B4D8-2F031B85C8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF38F6F-EA6B-4D78-B4D8-2F031B85C8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF38F6F-EA6B-4D78-B4D8-2F031B85C8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF38F6F-EA6B-4D78-B4D8-2F031B85C8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30272B44-BBC0-49C1-A3BD-8B1FE7CB999B}
+	EndGlobalSection
+EndGlobal
